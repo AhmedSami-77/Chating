@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244808248921",
+    "project_id": "chating-app-ac4e6",
+    "storage_bucket": "chating-app-ac4e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244808248921:android:78338109a338794c3e0b48",
+        "android_client_info": {
+          "package_name": "com.ahmed.chat_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244808248921-im82np6cp00rqenlv675ec9d66ch4gtr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDmWlaYYANEDkfKuZiGT_zJJq2k4DzUnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244808248921-im82np6cp00rqenlv675ec9d66ch4gtr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
